@@ -1,0 +1,14 @@
+.box1 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  transform: translateY(100px);
+  backface-visibility: hidden;
+}
+
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(246, 131, 150);
+  transform: translateY(200px);
+}
