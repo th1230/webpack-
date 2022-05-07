@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[43],{251:function(n,u,o){function c(n,u){console.log(n,u)}function e(n,u){console.log(n*u)}o.r(u),o.d(u,{add:function(){return c},mul:function(){return e}})}}]);
